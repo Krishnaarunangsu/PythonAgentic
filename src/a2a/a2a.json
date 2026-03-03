@@ -1,0 +1,14 @@
+{
+  "protocol": "A2A-1.0",
+  "from": "Supervisor",
+  "to": "Worker",
+  "type": "task",
+  "payload": {
+    "instruction": "Summarize this text",
+    "data": "..."
+  },
+  "metadata": {
+    "trace_id": "1234",
+    "timestamp": "..."
+  }
+}
